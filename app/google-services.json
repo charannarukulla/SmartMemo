@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "490185531842",
+    "project_id": "memo-adc84",
+    "storage_bucket": "memo-adc84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490185531842:android:4eff596ab2375dcce8f65b",
+        "android_client_info": {
+          "package_name": "com.cnst.smartmemogame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490185531842-0mgjq2tdpl2mthrvkdkpg92hi6b6ov8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cnst.smartmemogame",
+            "certificate_hash": "c76efc3e362625c049baae19f4bfc45254e63606"
+          }
+        },
+        {
+          "client_id": "490185531842-g4s85cfbpd0qn8g8b42foclqafc9lfqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIXNLSAFR1vFAXmWP879H7iJFmKMt7BY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490185531842-g4s85cfbpd0qn8g8b42foclqafc9lfqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
